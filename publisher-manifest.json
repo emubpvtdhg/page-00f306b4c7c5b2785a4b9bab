@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7d0bcd18d4a41825f81ba3a9",
+  "owner": "emubpvtdhg",
+  "repo": "page-00f306b4c7c5b2785a4b9bab",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "00f306b4c7c5b2785a4b9bab",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "91fdc0b6acd9a4cadec265d18747af906ae205396a24d265ec5a2bfa7c8d8e8e",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐提供专业的机场订阅与VPN加速服务，帮助您畅享高速网络体验。支持多设备、流媒体解锁、企业级定制，立即下载客户端开启加速之旅。",
+          "AI_DESCRIPTION": "机场推荐提供专业的机场订阅与VPN加速服务，帮助您畅享高速网络体验。支持多设备、流媒体解锁、企业级定制，立即下载客户端开启加速之旅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #fdf4e8; color: #333; margin: 0; padding: 0; line-height: 1.6; }\n  main { max-width: 1200px; margin: 0 auto; padding: 20px; }\n  h1, h2, h3 { color: #e07a5f; }\n  h1 { font-size: 2.5em; text-align: center; margin-bottom: 30px; }\n  section { margin-bottom: 40px; }\n  .plans-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }\n  .plan-card { background: white; border: 2px solid #e07a5f; border-radius: 12px; padding: 30px; text-align: center; }\n  .plan-card.recommended { border: 3px solid #e07a5f; position: relative; }\n  .plan-card.recommended::before { content: \"推荐\"; position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: #e07a5f; color: white; padding: 4px 16px; border-radius: 9999px; font-size: 0.9em; }\n  .price { font-size: 1.8em; color: #e07a5f; margin: 10px 0; }\n  ul { text-align: left; padding-left: 20px; }\n  .btn { display: inline-block; background: #e07a5f; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; margin-top: 20px; }\n  details { margin-bottom: 15px; border: 1px solid #eee; border-radius: 8px; }\n  summary { font-weight: bold; cursor: pointer; padding: 15px; background: #f8f1e3; border-radius: 8px; }\n  .faq-content { padding: 15px; }\n  footer { background: #333; color: #ddd; padding: 40px 20px; text-align: center; }\n  @media (max-width: 768px) { .plans-grid { grid-template-columns: 1fr; } h1 { font-size: 2em; } }\n</style>\n\n\n<main>\n<h1>机场推荐</h1>\n<section>\n<h2>品牌简介</h2>\n<p>机场推荐是一家专业的机场订阅与VPN加速器服务提供商，致力于为用户提供安全、高速的网络连接解决方案。通过先进的节点选择和流量优化，我们帮助您在全球范围内畅享无阻碍的互联网体验。无论您是个人用户还是企业团队，机场推荐都能满足您的需求。</p>\n</section>\n<section>\n<h2>使用场景</h2>\n<p>机场推荐广泛应用于以下场景：</p>\n<ul>\n<li>日常上网与网络加速</li>\n<li>流媒体平台解锁（如Netflix、YouTube、Disney+）</li>\n<li>跨境购物与国际支付加速</li>\n<li>游戏加速优化</li>\n<li>远程办公与多设备同步</li>\n</ul>\n</section>\n<section>\n<h2>操作说明</h2>\n<p>订阅机场推荐服务后，步骤简单高效：</p>\n<ol>\n<li>选择适合的套餐并完成在线支付</li>\n<li>登录官网获取订阅链接</li>\n<li>下载并安装客户端</li>\n<li>导入订阅链接即可立即使用</li>\n<li>支持多台设备同时在线</li>\n</ol>\n</section>\n<section>\n<h2>选择适合您的套餐</h2>\n<div class=\"plans-grid\">\n<div class=\"plan-card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<a href=\"#\" class=\"btn\">立即订阅</a>\n</div>\n<div class=\"plan-card recommended\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<a href=\"#\" class=\"btn\">立即订阅</a>\n</div>\n<div class=\"plan-card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<a href=\"#\" class=\"btn\">立即订阅</a>\n</div>\n</div>\n</section>\n<section>\n<h2>常见问题 FAQ</h2>\n<div>\n<details>\n<summary>1. 什么是机场推荐？</summary>\n<div class=\"faq-content\">机场推荐是一个专业的机场订阅与VPN加速器服务，提供安全、快速的网络连接，帮助用户解锁全球内容并优化网络体验。</div>\n</details>\n<details>\n<summary>2. 机场推荐支持哪些设备？</summary>\n<div class=\"faq-content\">旗舰版和团队版支持多达20台设备同时在线，基础版支持3台。您可以轻松在手机、平板、电脑和电视上使用。</div>\n</details>\n<details>\n<summary>3. 如何订阅机场推荐？</summary>\n<div class=\"faq-content\">访问官网，选择套餐并完成支付，即可获得订阅链接。下载客户端导入链接即可开始使用，无需复杂配置。</div>\n</details>\n<details>\n<summary>4. 机场推荐的流量如何计算？</summary>\n<div class=\"faq-content\">流量按每月累计计算，超出流量后将限速。基础版100GB、旗舰版300GB、团队版1000GB，可根据需求选择。</div>\n</details>\n<details>\n<summary>5. 旗舰版和团队版有哪些特殊服务？</summary>\n<div class=\"faq-content\">旗舰版提供IPLC专线游戏加速和7x24优先工单支持；团队版拥有VIP高带宽节点、企业定制路由和专属客户经理服务。</div>\n</details>\n</div>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>© 2024 机场推荐 | 官网：https://www.jichangtuijian.com | <a href=\"#\">广告</a> | <a href=\"#\">友情链接</a></p>\n<p>友情链接示例：部分合作伙伴站点链接</p>\n</footer>\n\n",
+          "hash": "4a3beed688d33948c2aa7ee33ab6537450c89ea9438f0fefc0049476a4e0f5a7",
+          "seo": {
+            "title": "机场推荐 - 机场订阅 VPN 加速器 客户端下载",
+            "keywords": "机场推荐,机场订阅,VPN加速器,客户端下载,VPN梯子,网络加速,机场VPN",
+            "description": "机场推荐提供专业的机场订阅与VPN加速服务，帮助您畅享高速网络体验。支持多设备、流媒体解锁、企业级定制，立即下载客户端开启加速之旅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vmzinc.cn",
+    "host": "p-1d02f1e3fc.vmzinc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2979ac64fb5adb9e9c5a03c10986232158bfbf45b53b8764b6fea4b3d89f1f6e",
+    "sitemap.xml": "f04bd9cf160e35ddf28c13b2d48c352fb81490df31ad9b847b217ad8e84a5526",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "318adb83d903005005a9343320989eaccf6ea7915af618f78ca452042688d62f",
+    "robots.txt": "40d20a4e2b6aa299cde834627419d0126ac8530bfee6f56aa1b7ee4b2ecf2f28",
+    "b0231c4ef6f669b637fa07bb25d829a2.txt": "53f93c11caffbed862326ed29a04bed4a67908e02e465bf0ab51360d0eafb92e"
+  },
+  "revision": "8ed2dccedbc48aa16b65800c00bd14d5326ff5c06bfe14c58cbfb15c05456b95"
+}
